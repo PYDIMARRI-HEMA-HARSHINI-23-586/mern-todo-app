@@ -1,6 +1,7 @@
 // BLOCK 1: Importing Dependencies
 const express = require("express");
 const mongoose = require("mongoose");
+require("dotenv").config();
 const cors = require("cors");
 const dotenv = require("dotenv");
 
